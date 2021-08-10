@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Adminpage">
+   <center>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #171717;" BorderPane.alignment="CENTER">
+         <children>
+            <TextArea fx:id="Stonkus" editable="false" layoutX="36.0" prefHeight="363.0" prefWidth="936.0" style="-fx-control-inner-background: #171717; -fx-text-fill: #bc4242;" text="Press the &quot;View Stocks&quot; Button to View Stocks">
+               <font>
+                  <Font name="Century Gothic Bold Italic" size="12.0" />
+               </font></TextArea>
+         </children>
+      </AnchorPane>
+   </center>
+   <top>
+      <ButtonBar prefHeight="40.0" prefWidth="200.0" style="-fx-background-color: #171717;" BorderPane.alignment="CENTER">
+        <buttons>
+            <Button fx:id="viewstonks" mnemonicParsing="false" onAction="#bonks" style="-fx-background-color: 171717;" text="View Stocks" textFill="#bc4242">
+               <font>
+                  <Font name="Century Gothic Bold Italic" size="12.0" />
+               </font>
+            </Button>
+            <Button fx:id="addnewstock" mnemonicParsing="false" onAction="#Addstock" snapToPixel="false" style="-fx-background-color: #171717;" text="Add New Stock" textAlignment="CENTER" textFill="#bc4242">
+               <font>
+                  <Font name="Century Gothic Bold Italic" size="12.0" />
+               </font>
+            </Button>
+          <Button fx:id="admnlogout" mnemonicParsing="false" onAction="#HandleClickAdmin" style="-fx-background-color: #171717;" text="Log Out" textFill="#bc4242">
+               <font>
+                  <Font name="Century Gothic Bold Italic" size="12.0" />
+               </font></Button>
+        </buttons>
+      </ButtonBar>
+   </top>
+</BorderPane>

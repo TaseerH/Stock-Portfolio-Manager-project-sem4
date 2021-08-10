@@ -1,0 +1,15 @@
+Company Name: NESTLE
+Company Stock Price: 5,800.00
+Company Symbol: NESTLE
+Number of Stocks: 100
+-----
+Company Name: Pakistan International Airlines
+Company Stock Price: 6.25
+Company Symbol: PIAA
+Number of Stocks: 10,000
+-----
+Company Name: Abx
+Company Stock Price: 123
+Company Symbol: A
+Number of Stocks: 100
+-----

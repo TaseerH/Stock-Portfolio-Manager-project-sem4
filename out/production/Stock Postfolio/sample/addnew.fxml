@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="361.0" prefWidth="379.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.addnew">
+    <children>
+        <Button fx:id="Addtoportfolio" layoutX="152.0" layoutY="284.0" mnemonicParsing="false" onAction="#Handleaddtoportfolio" style="-fx-background-color: #171717;" text="Add to Portfolio" textFill="#bc4242" />
+        <Label layoutX="60.0" layoutY="94.0" text="Stock Name:" textFill="#bc4242">
+            <font>
+                <Font name="Century Gothic Bold Italic" size="12.0" />
+            </font></Label>
+        <Label layoutX="63.0" layoutY="139.0" text="Stock Price:" textFill="#bc4242" />
+        <Label layoutX="63.0" layoutY="192.0" text="Stock Symbol:" textFill="#bc4242" />
+        <Label layoutX="64.0" layoutY="240.0" text="No. of Stocks:" textFill="#bc4242" />
+        <TextField fx:id="stockN" layoutX="151.0" layoutY="90.0" prefHeight="25.0" prefWidth="194.0" />
+        <TextField fx:id="stockP" layoutX="152.0" layoutY="135.0" prefHeight="25.0" prefWidth="194.0" />
+        <TextField fx:id="stockS" layoutX="151.0" layoutY="188.0" prefHeight="25.0" prefWidth="194.0" />
+        <TextField fx:id="noStocks" layoutX="152.0" layoutY="236.0" prefHeight="25.0" prefWidth="194.0" />
+      <Label fx:id="emptlbl" layoutX="101.0" layoutY="61.0" text="Add Details for New Stock" textFill="#bc4242">
+         <font>
+            <Font name="Bookman Old Style Bold Italic" size="13.0" />
+         </font>
+      </Label>
+        <Button fx:id="backbt" layoutX="300.0" layoutY="284.0" mnemonicParsing="false" onAction="#backtoportfolio" style="-fx-background-color: #171717;" text="Back" textFill="#bc4242">
+            <font>
+                <Font name="Century Gothic Bold Italic" size="12.0" />
+            </font></Button>
+    </children>
+</AnchorPane>

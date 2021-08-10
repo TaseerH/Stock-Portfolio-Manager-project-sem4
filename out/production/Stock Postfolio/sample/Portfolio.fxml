@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Portfolio">
+    <children>
+        <Button fx:id="addnew" layoutX="14.0" layoutY="361.0" mnemonicParsing="false" onAction="#addnewstock" style="-fx-background-color: #171717;" text="Add New" textFill="#bc4242">
+            <font>
+                <Font name="Century Gothic Bold Italic" size="12.0" />
+            </font></Button>
+      <TextArea fx:id="portfoliolist" editable="false" layoutX="14.0" layoutY="14.0" prefHeight="332.0" prefWidth="568.0" style="-fx-control-inner-background: #171717; -fx-text-fill: #bc4242;" text="Press &quot;View Portfolio&quot; button to view portfolio" />
+      <Button fx:id="update" layoutX="251.0" layoutY="361.0" mnemonicParsing="false" onAction="#UPDATEtext" style="-fx-background-color: #171717;" text="View Portfolio" textFill="#bc4242">
+         <font>
+            <Font name="Century Gothic Bold Italic" size="12.0" />
+         </font></Button>
+      <Button fx:id="backbt" layoutX="534.0" layoutY="360.0" mnemonicParsing="false" onAction="#gobacktousrpage" style="-fx-background-color: #171717;" text="Back" textFill="#bc4242">
+         <font>
+            <Font name="Century Gothic Bold Italic" size="12.0" />
+         </font></Button>
+    </children>
+</AnchorPane>

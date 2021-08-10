@@ -1,0 +1,31 @@
+Company Name: Nestle Pakistan Limited     Stock Price: Rs.5,799.50     Stock Symbol: NESTLE     Number of Stocks Available: 45,349,551
+Company Details: Nestlé Pakistan Limited is a public limited company incorporated in Pakistan - under the repealed Companies Ordinance 1984 (now Companies Act 2017). 
+The Company is a subsidiary of Nestlé S.A, a Swiss based public limited company.The Company is principally engaged in manufacturing, processing and sale 
+of dairy, nutrition, beverages and food products including imported products.
+-----
+Company Name: Colgate-Palmolive (Pakistan) Limited     Stock Price: Rs.2,900.00     Stock Symbol: COLG     Number of Stocks Available: 63,300,512
+Company Details: Colgate-Palmolive (Pakistan) Limited was incorporated in Pakistan on December 5, 1977 as a public limited company with the name of National Detergents Limited. 
+The name of the Company was changed to Colgate-Palmolive (Pakistan) Limited on March 28, 1990 when the Company entered into a Participation Agreement 
+with Colgate-Palmolive Company, USA. The Company is mainly engaged in the manufacture and sale of detergents, personal care and other related products
+-----
+Company Name: Mari Petroleum Company Limited     Stock Price: Rs.1,550.05     Stock Symbol: MARI     Number of Stocks Available: 133,402,500
+Company Details: Mari Petroleum Company Limited is a public limited 
+company incorporated in Pakistan on December 4, 1984 under the 
+Companies Ordinance, 1984. The Company is principally engaged in exploration, production and sale of hydrocarbons.
+-----
+Company Name: Indus Motor Company Limited     Stock Price: Rs.1,317.73     Stock Symbol: INDU     Number of Stocks Available: 78,600,000
+Company Details: Indus Motor Company Limited was incorporated in Pakistan as a public limited company in December 1989 and started commercial production in May 1993. The Company was formed in accordance with the terms of a Joint Venture agreement 
+concluded amongst certain House of Habib companies, Toyota Motor Corporation and Toyota Tsusho Corporation for the purposes of assembling, progressive manufacturing and marketing of 
+Toyota vehicles. The Company also acts as the sole distributor of Toyota and Daihatsu vehicles in Pakistan and has a license for assembling, progressive manufacturing and marketing of these vehicles in Pakistan.
+-----
+Company Name: Pakistan Tobacco Company Limited     Stock Price: Rs.1,285.69     Stock Symbol: PAKT     Number of Stocks Available: 255,493,792
+Company Details: Pakistan Tobacco Company Limited is a public limited company incorporated in Pakistan on November 18, 1947 
+under the Companies Act, 1913 (now the Companies Act, 2017). The Company is a subsidiary of British American Tobacco (Investments) Limited, 
+United Kingdom, whereas its ultimate parent company is British American Tobacco p.l.c, United Kingdom. The Company is engaged in the manufacture and sale of cigarettes/ tobacco.
+-----
+Company Name: Abx     Stock Price: 123     Stock Symbol: A     Number of Stocks Available: 10000
+Company Details: This is a new stock that will be added to the page
+-----
+Company Name: Abs     Stock Price: 123     Stock Symbol: Abs     Number of Stocks Available: 100,00
+Company Details: Abcdefghi
+-----

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="520.0" prefWidth="425.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.NewStock">
+   <children>
+      <Button fx:id="newstock" layoutX="180.0" layoutY="462.0" mnemonicParsing="false" onAction="#Handlenewstockbutton" style="-fx-background-color: #171717;" text="Submit" textFill="#bc4242" />
+      <Label layoutX="56.0" layoutY="95.0" text="Company Name:" textFill="#bc4242">
+         <font>
+            <Font name="Century Gothic Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="54.0" layoutY="133.0" text="Company Symbol:" textFill="#bc4242">
+         <font>
+            <Font name="Century Gothic Bold Italic" size="12.0" />
+         </font></Label>
+      <Label layoutX="71.0" layoutY="171.0" text="Stock Price:" textFill="#bc4242">
+         <font>
+            <Font name="Century Gothic Bold Italic" size="12.0" />
+         </font></Label>
+      <Label layoutX="54.0" layoutY="340.0" text="Company Details:" textFill="#bc4242">
+         <font>
+            <Font name="Century Gothic Bold Italic" size="12.0" />
+         </font></Label>
+      <TextField fx:id="newsymbol" layoutX="180.0" layoutY="129.0" promptText="Enter Symbol" />
+      <TextArea fx:id="newdetails" layoutX="180.0" layoutY="249.0" prefHeight="200.0" prefWidth="200.0" promptText="Enter Details Here" />
+      <TextField fx:id="newprice" layoutX="180.0" layoutY="167.0" promptText="Enter Price" />
+      <TextField fx:id="newstonks" layoutX="180.0" layoutY="209.0" promptText="Enter No. of Stocks" />
+      <TextField fx:id="newname" layoutX="180.0" layoutY="91.0" promptText="Enter Name" />
+      <Label layoutX="51.0" layoutY="213.0" text="Number Of Stocks:" textFill="#bc4242">
+         <font>
+            <Font name="Century Gothic Bold Italic" size="12.0" />
+         </font></Label>
+      <Label fx:id="validation" layoutX="126.0" layoutY="56.0" text="Enter New Stock Details:" textFill="#bc4242">
+         <font>
+            <Font name="Bookman Old Style Bold Italic" size="13.0" />
+         </font></Label>
+      <Button fx:id="backbt" layoutX="329.0" layoutY="462.0" mnemonicParsing="false" onAction="#backtoadminpage" style="-fx-background-color: #171717;" text="Back" textFill="#bc4242">
+         <font>
+            <Font name="Century Gothic Bold Italic" size="12.0" />
+         </font>
+      </Button>
+
+   </children>
+</AnchorPane>
